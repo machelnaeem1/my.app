@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451351159326",
+    "project_id": "aapp-c44b8",
+    "storage_bucket": "aapp-c44b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451351159326:android:8ce7f8c556d4d8da10840f",
+        "android_client_info": {
+          "package_name": "com.combany.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451351159326-aik8mubs0hfa90gm066m922fi36ar1l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHhAdHM1j8IxdSFPmXpaCwqXaxurXdjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451351159326-aik8mubs0hfa90gm066m922fi36ar1l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
